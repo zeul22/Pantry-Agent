@@ -118,13 +118,12 @@ Swiggy's program explicitly encourages *"AI-powered assistants and copilots that
 
 *Solo developer / small team — update with your details.*
 
-- **Name:** [your name]
-- **Background:** [1 line — e.g., "5 years building ML-powered products, previously at X"]
-- **Security contact:** [email]
+- **Name:** Rahul Anand
+- **Background:** Solo Developer with experience in Flutter, React, Node, Java & Python
 
 ## Contact
 
-[your email] · [LinkedIn] · [website]
+anandrahul044@gmail.com ·
 
 ---
 
